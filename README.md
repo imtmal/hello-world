@@ -3,4 +3,4 @@ Just another repository
 
 Hi folk,
 imtmal here, I like Node.js and JavaScript.
-Lovely to watch GitHub.
+Nice experience to work with GitHub.
